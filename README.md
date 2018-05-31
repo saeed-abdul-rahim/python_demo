@@ -1,2 +1,2 @@
 # Python_sample
-Random experimetation of Python 2017
+Random experimentation of Python 2017
